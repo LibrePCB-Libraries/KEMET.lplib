@@ -4,7 +4,7 @@
 
 Capacitors and other electronic components.
 
-Inofficial library, not endorsed by KEMET.
+Unofficial library, not endorsed by KEMET.
 
 ## License
 
