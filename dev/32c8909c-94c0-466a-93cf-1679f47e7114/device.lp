@@ -3,7 +3,7 @@
  (description "EE2 series surface mount double-pole double-throw relay, non-latch type, minimum footprint.\n\nAvailable with different coil voltages.\n\nDatasheet: https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf")
  (keywords "relay,kemet,ee2,ee2-3nuh,ee2-4.5nuh,ee2-5nuh,ee2-12nuh,ee2-24nuh,dpdt")
  (author "Danilo Bargen")
- (version "0.1")
+ (version "0.2")
  (created 2019-04-19T17:00:41Z)
  (deprecated false)
  (generated_by "")

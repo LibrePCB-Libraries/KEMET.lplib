@@ -3,7 +3,7 @@
  (description "EE2 series relay footprint, surface mount, non-latch type, minimum footprint.")
  (keywords "kemet,relay,ee2,nuh,smt")
  (author "Danilo Bargen")
- (version "0.1")
+ (version "0.2")
  (created 2019-04-16T20:40:26Z)
  (deprecated false)
  (generated_by "")
